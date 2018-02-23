@@ -1,24 +1,19 @@
 PODS:
+  - BNRCoreDataStack (2.3.1)
   - Crashlytics (3.9.3):
     - Fabric (~> 1.7.2)
   - Fabric (1.7.2)
-  - Realm (3.1.0):
-    - Realm/Headers (= 3.1.0)
-  - Realm/Headers (3.1.0)
-  - RealmSwift (3.1.0):
-    - Realm (= 3.1.0)
 
 DEPENDENCIES:
+  - BNRCoreDataStack
   - Crashlytics
   - Fabric
-  - RealmSwift
 
 SPEC CHECKSUMS:
+  BNRCoreDataStack: d9d7d0ed1afd27dca5a903dde1250aa4c6dbc3f5
   Crashlytics: dbb07d01876c171c5ccbdf7826410380189e452c
   Fabric: 9cd6a848efcf1b8b07497e0b6a2e7d336353ba15
-  Realm: 09513d7c054678d65cd02ce09871f805b0d758ac
-  RealmSwift: e868fee9b10e5490ad94b6b6ecd9027944da1824
 
-PODFILE CHECKSUM: 7017b1cd43eafd33b737ae5a017e5b79bb3bc2c7
+PODFILE CHECKSUM: a0d40265664a788dd9c61d4e4acad21e5a4b5744
 
 COCOAPODS: 1.4.0
