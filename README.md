@@ -16,6 +16,8 @@ Our email: [foundation@cocoaheads.nl](mailto:foundation@cocoaheads.nl)
 
 Please run `pod install` in the directory containing the Podfile.
 
+dit is nog beter
+
 ## Project structure
 
 CocoaHeadsNL contains two important components:
